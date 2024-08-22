@@ -3,8 +3,8 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By PATRON 🚹
-🖥️ > Base Ori By BLUE DEMON
+📝 > Created By B.M.B
+🖥️ > Base Ori By DARE
                
 */
 const {
@@ -644,7 +644,7 @@ module.exports =
           if (new Date() * 1 - setting.status > 1000) {
             let uptime = await runtime(process.uptime());
             await ryozingod.updateProfileStatus(
-              `✳️ PATRON-V1🟦- Client By : PATRON 🚹 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽| ✅ Runtime : ${uptime}`
+              `✳️ DARE-V1- Client By : B.M.B & DARE| ✅ Runtime : ${uptime}`
             );
             setting.status = new Date() * 1;
           }
@@ -798,10 +798,10 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
                 title: "",
               },
               body: {
-                text: "▾ PATRON-V1-BUG ▾",
+                text: "▾ DARE-V1-BUG ▾",
               },
               footer: {
-                text: "By - PATRON 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽 ",
+                text: "By - B.M.B ☠️ ",
               },
               nativeFlowMessage: {
                 messageParamsJson: "".repeat(900000),
@@ -881,14 +881,14 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           message: {
             eventMessage: {
               isCanceled: false,
-              name: "🌠 PATRON-V1-BUG - Multi Device",
+              name: "🌠 DARE-V1-BUG - Multi Device",
               description: "Pe",
               location: {
                 degreesLatitude: 0,
                 degreesLongitude: 0,
                 name: "Apakajajanabs",
               },
-              joinLink: "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q",
+              joinLink: "https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I",
               startTime: "1713724680",
             },
           },
@@ -955,7 +955,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           },
           message: {
             listResponseMessage: {
-              title: `pois0n - PATRON 🚹`,
+              title: `pois0n - B.M.B`
             },
           },
         };
@@ -971,7 +971,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           },
           message: {
             buttonsResponseMessage: {
-              selectedButtonId: "pois0n - PATRON 🚹",
+              selectedButtonId: "pois0n - B.M.B",
               type: 1,
               response: {
                 selectedDisplayText: "penis",
@@ -994,7 +994,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
               newsletterJid: `120363224727390375@newsletter`,
               newsletterName: `🔥`,
               jpegThumbnail: fakejpg,
-              caption: ` 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽👽 \n ⿻ ${m.body || m.mtype} `,
+              caption: ` DARE👽 \n ⿻ ${m.body || m.mtype} `,
               inviteExpiration: Date.now() + 1814400000,
             },
           },
@@ -1076,7 +1076,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           message: {
             extendedTextMessage: {
               text: `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-              title: `▾  PATRON 🚹 ▾`,
+              title: `▾  B.M.B ▾`,
               jpegThumbnail: fakejpg,
             },
           },
@@ -1237,7 +1237,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
                 externalAdReply: {
                   showAdAttribution: false,
                   renderLargerThumbnail: false,
-                  title: `© PATRON BUG 1.0.0`,
+                  title: `© DARE-V1-BUG 1.0.0`,
                   body: `${ucapanWaktu} ${m.pushName} 👋`,
                   previewType: "VIDEO",
                   thumbnail: nulll,
@@ -2418,10 +2418,10 @@ klik https://wa.me/${botNumber.split`@`[0]}`,
                   title: "",
                 },
                 body: {
-                  text: "▾ PATRON MD V1  ▾",
+                  text: "▾ DARE V1  ▾",
                 },
                 footer: {
-                  text: "By -  PATRON 🚹 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽",
+                  text: "By -  B.M.B",
                 },
                 nativeFlowMessage: {
                   messageParamsJson: " ".repeat(1000000),
@@ -2649,24 +2649,24 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
               break;
             //=================================================//
             //Menu
-            case "patronmenu":
+            case "daremenu":
             case "help":
             case "menu":
-            case "blue":
+            case "dare":
               {
                 //text menu
                 let njing = `
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-      💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
+      💀  *DARE-V1 BUG* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : B.M.B*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI*
 
-     \`PATRON MENU\`
+     \`DARE MENU\`
 
     \`⭔${prefix}killmenu\`
     \`⭔${prefix}ddosmenu\`
@@ -2692,7 +2692,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           },
                         },
                         header: {
-                          title: "    *[🕷️] •𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆*",
+                          title: "    *[🕷️] •DARE-V1 BUG*",
                           ...(await prepareWAMessageMedia(
                             { image: overlaid },
                             { upload: ryozingod.waUploadToServer }
@@ -2703,7 +2703,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           text: "",
                         },
                         footer: {
-                          text: "𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽 ",
+                          text: "DARE & BMB ",
                         },
                         nativeFlowMessage: {
                           buttons: [
@@ -2755,7 +2755,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                             {
                               name: "cta_url",
                               buttonParamsJson:
-                                '{"display_text":"JOIN CHANNEL","url":"https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q","merchant_url":"https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"}',
+                                '{"display_text":"JOIN CHANNEL","url":"https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I","merchant_url":"https://wa.me/message/3TOOBST7GT2BC1"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -2797,7 +2797,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL🚹', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL', url : "https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I", merchant_url : "https://wa.me/message/3TOOBST7GT2BC1" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -2822,15 +2822,15 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
               {
                 let itsmenu = `
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-      💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
+      💀  *DARE-V1 BUG* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : B.M.B*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI*
-      https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+      https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I
 
 ╭❐   \`Owner/Custom Cmd\` 
 │
@@ -3105,7 +3105,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           isForwarded: true,
                           forwardedNewsletterMessageInfo: {
                             newsletterJid: "0@newsletter",
-                            newsletterName: "𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆",
+                            newsletterName: "DARE-V1",
                             serverMessageId: 1,
                           },
                         },
@@ -3121,14 +3121,14 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           text: "",
                         },
                         footer: {
-                          text: "𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽",
+                          text: "B.M.B",
                         },
                         nativeFlowMessage: {
                           buttons: [
                             {
                               name: "quick_reply",
                               buttonParamsJson:
-                                '{"display_text":"JOIN CHANNEL\nhttps://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q","id":".follow"}',
+                                '{"display_text":"JOIN CHANNEL\https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I","id":".follow"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -3170,7 +3170,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'DARE-V1 BUG', url : "https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I", merchant_url : "https://wa.me/message/3TOOBST7GT2BC1" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -3194,16 +3194,16 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
               {
                 let itsmenu = `
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-      💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
+      💀  *DARE-V1 BUG* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : B.M.B*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI*
 
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I
     
          \`kill Menu\`
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬	
@@ -3304,7 +3304,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                             {
                               name: "quick_reply",
                               buttonParamsJson:
-                                '{"display_text":"*HEY*\n*PLS DO WELL TO FOLLOW MY CHANNEL*, https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q","id":".channel"}',
+                                '{"display_text":"*HEY*\n*PLS DO WELL TO FOLLOW MY CHANNEL*, https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I","id":".channel"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -3324,7 +3324,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           isForwarded: true,
                           forwardedNewsletterMessageInfo: {
                             newsletterJid: "0@newsletter",
-                            newsletterName: "𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽",
+                            newsletterName: "B.M.B",
                             serverMessageId: 1,
                           },
                         },
@@ -3340,13 +3340,13 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           text: "",
                         },
                         footer: {
-                          text: "𝙿𝙰𝚃𝚁𝙾𝙽 & BLUE DEMON",
+                          text: "DARE & B.M.B",
                         },
                         nativeFlowMessage: {
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL ', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL ', url : "https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I", merchant_url : "https://wa.me/message/3TOOBST7GT2BC1" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -3370,16 +3370,16 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
               {
                 let itsmenu = `
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-      💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
+      💀  *DARE-V1 BUG* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : B.M.B*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI* 
 
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I
 
 ╭❐  *Ddos Menu*
 │
@@ -3430,7 +3430,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                             {
                               name: "quick_reply",
                               buttonParamsJson:
-                                '{"display_text":"HEY 🚹\nYOUR BOT LOOKS GREAT❤️","id":".terkentod"}',
+                                '{"display_text":"HEY 🙂\nYOUR BOT LOOKS GREAT❤️","id":".terkentod"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -3465,13 +3465,13 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           text: "",
                         },
                         footer: {
-                          text: "*PATRON*",
+                          text: "*B.M.B*",
                         },
                         nativeFlowMessage: {
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL', url : "https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I", merchant_url : "https://wa.me/message/3TOOBST7GT2BC1" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -3510,9 +3510,9 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
 
                 joreply(`
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-      💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
+      💀  *DARE-V1 BUG* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : B.M.B*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
@@ -3521,7 +3521,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
     *Resp Speed : ${latensi.toFixed(4)}*
     *Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}*
     *Runtime : ${run}*
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    https://wa.me/message/3TOOBST7GT2BC1
 `);
               }
               break;
@@ -3584,15 +3584,15 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 SCRIPT 👇
+                    text: `DARE-V1 SCRIPT 👇
 
-🌐 *_Git:_* https://github.com/Itzpatron/PATRON-V1
+🌐 *_Git:_* https://wa.me/message/3TOOBST7GT2BC1
 
-🪀 *_Group:_* https://chat.whatsapp.com/HSC7DAJOD9nBKbl7CmxxLb
+🪀 *_Group:_* https://wa.me/message/3TOOBST7GT2BC1
 
-🪀 *_Channel:_* https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+🪀 *_Channel:_* https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I
 
-🚹 *_The Devs:_* https://t.me/textpatron_bot and https://tinyurl.com/2xrw69su
+🚹 *_The Devs:_* https://wa.me/message/3TOOBST7GT2BC1
 
 🙇🏽‍♂️ *_Panel Deployment:_* https://youtu.be/ELsmTeFsHsI?si=-SP-FDYaels_0zEO`,
                   },
@@ -3606,7 +3606,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `LIST OF PANEL BOT PRIVATE BY 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽
+                    text: `LIST OF PANEL BOT PRIVATE BY B.M.B
 
  │⬡ 1GB Cpu: 30% - 2.000/bln
  │⬡ 2GB Cpu: 50% - 3.000/bln
@@ -3624,7 +3624,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
 + anti ddos
 + guarantee 24hr
 + fast
-*CHAT  𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽* : wa.me/2347041039367`,
+*CHAT  B.M.B* : wa.me/2348089405509`,
                   },
                   { quoted: m }
                 );
@@ -3636,9 +3636,9 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*ACCOUNT-8133729715*
+                    text: `*ACCOUNT-8089405509*
 *BANK-OPAY*
-*NAME-FADARE*`,
+*NAME- ASK ME *`,
                   },
                   { quoted: m }
                 );
@@ -3665,7 +3665,7 @@ Hi
 ┃➥  Login : https://private.exvlora.xyz
 ┃➥  Username : ${sellpanelUsername}
 ┃➥  Password : ${sellpanelPassword}
-┗━━━━━[ 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽 ]━━━━
+┗━━━━━[ B.M.B ]━━━━
     `;
 
               ryozingod.sendMessage(
@@ -3699,14 +3699,14 @@ Hi
                 );
               }
 
-              let sellpanel2ResponseMessage = `
-Hi
+              let sellpanel2ResponseMessage = '
+HI
 
 ╭──❏「 INFO DATA PANEL 」❏
 ┃➥  Login : https://private.exvlora.xyz
 ┃➥  Username : ${sellpanel2Username}
 ┃➥  Password : ${sellpanel2Password}
-┗━━━━━[ 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽 ]━━━━
+┗━━━━━[ B.M.B ]━━━━
     `;
 
               await ryozingod.sendMessage(
@@ -3719,10 +3719,10 @@ Hi
                   sellpanel2Recipient.split("@")[0]
                 }`
               );
-              break;
+            peak;
             case "owner":
             case "botowner":
-              let namaown = `PATRON 🚹`;
+              let namaown = `B.M.B.`;
               var contact = generateWAMessageFromContent(
                 m.chat,
                 proto.Message.fromObject({
@@ -3742,7 +3742,7 @@ Hi
               {
                 ryozingod.sendMessage(
                   m.chat,
-                  { text: `*ALL HAILS TO 𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽*` },
+                  { text: `*ALL HAILS TO B.M.B*` },
                   { quoted: m }
                 );
               }
@@ -3753,7 +3753,7 @@ Hi
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*DM ME FOR ANY QUESTION OR COMPLAIN* , https://t.me/textpatron_bot `,
+                    text: `*DM ME FOR ANY QUESTION OR COMPLAIN* , https://wa.me/message/3TOOBST7GT2BC1 `,
                   },
                   { quoted: m }
                 );
@@ -3765,7 +3765,7 @@ Hi
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q 
+                    text: `https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I 
 *PLS JOIN AND ALWAYS SUPPORT US 😃*`,
                   },
                   { quoted: m }
@@ -3777,7 +3777,7 @@ Hi
               {
                 ryozingod.sendMessage(
                   m.chat,
-                  { text: `*FATHER OF PATRON*` },
+                  { text: `*KING B.M.B*` },
                   { quoted: m }
                 );
               }
@@ -4024,12 +4024,12 @@ break
               {
                 if (!isDeveloper) return joreply(mess.owner);
                 ryozingod.public = false;
-                joreply("𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 SET TO PRIVATE BOSS");
+                joreply("DARE-V1 SET TO PRIVATE BOSS");
               }
               break;
             //=================================================//
             case "runtime":
-              let runtimetext = ` 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 Have Been Running For ${runtime(
+              let runtimetext = ` DARE-V1 𝚩𝐔𝐆 Have Been Running For ${runtime(
                 process.uptime()
               )}`;
               ryozingod.readMessages(
@@ -4039,8 +4039,8 @@ break
                   contextInfo: {
                     externalAdReply: {
                       showAdAttribution: true,
-                      title: ` 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆`,
-                      body: `PATRON 🚹`,
+                      title: ` DARE-V1 BUG`,
+                      body: `B.M.B`,
                       thumbnailUrl: "media/overlaid.jpg",
                       sourceUrl: global.link,
                       mediaType: 1,
