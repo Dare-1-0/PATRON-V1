@@ -23,15 +23,15 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.owner = ['2348089405509'];
+global.ownMain = '2348151645247';
+global.NamaOwner = 'DARE-V1'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.packname = 'PATRON 🚹'; // Change if needed
-global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
+global.namabot = 'DARE-V1'; // Do not change
+global.author = 'DARE-V1'; // Do not change
+global.packname = 'B.M.B'; // Change if needed
+global.url = 'https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I'; // Do not change
 
 //===========================//
 
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = '234';
 global.system = {
-  gmail: 'winneraileme6@gmail.com',
+  gmail: 'dareshallruleoverall@gmail.com',
 };
 
 //===========================//
@@ -86,7 +86,7 @@ global.mess = {
   usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
   wait: '*processing♻️ chillax....♻️*',
   success: '*successfully terminated* 😈💯.....',
-  bugrespon: '♻️😈😭 *Sent target to the afterlife.....* 🦠🕷️👾'
+  bugrespon: '♻️😈 *For I am nothing but a servant to his own, aiding the Lord in his journey to reunite good and diminish evil. Domain Expansion:The Final Judgement.....* 🦠🕷️👾'
 };
 
 //===========================//
