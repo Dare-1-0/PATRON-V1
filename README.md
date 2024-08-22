@@ -1,36 +1,36 @@
 <p align="center">  
   <a href="">
-    <img alt="𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆" height="300" src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg">
-    <h1 align="center">𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆</h1>
+    <img alt="DARE-V1 𝚩𝐔𝐆" height="300" src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg">
+    <h1 align="center">DARE-V1 𝚩𝐔𝐆</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://t.me/textpatron_bot"><img title="Author" src="https://img.shields.io/badge/PATRON-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://wa.me/message/3TOOBST7GT2BC1"><img title="Author" src="https://img.shields.io/badge/DARE-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 
 
 > If y'all get any suggestions, click the patron bot
 
 ####  
-𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 Whatsapp crasher Multi Device whatsapp bot.
-<p align="center"><img src="https://profile-counter.glitch.me/{PATRON-V1}/count.svg" alt="itzpatron :: Visitor's Count" /></p>
+DARE-V1 𝚩𝐔𝐆 Whatsapp crasher Multi Device whatsapp bot.
+<p align="center"><img src="https://profile-counter.glitch.me/{DARE-V1}/count.svg" alt="itzDARE :: Visitor's Count" /></p>
 
 ***
 
  #### For more deployment platform join channel for update
 
 
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"><img alt="WhatsApp" src="https://img.shields.io/badge/Join CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I"><img alt="WhatsApp" src="https://img.shields.io/badge/Join CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ***
 
-TESTING GROUP: <a href="https://chat.whatsapp.com/HSC7DAJOD9nBKbl7CmxxLb"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+TESTING GROUP: <a href="https://wa.me/message/3TOOBST7GT2BC1"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 #### SETUP
 
 1. Fork the repo
     <br>
-<a href='https://github.com/patronffx/PATRON-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://wa.me/message/3TOOBST7GT2BC1/DARE-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
