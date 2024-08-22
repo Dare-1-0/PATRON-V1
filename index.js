@@ -90,7 +90,7 @@ say(`Create By Thezetetsuboxygen\nYOUTUBE : Thezetetsuboxygen\nTelegram : ygen_g
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> Input your phone number(By PATRON)  ❌\n<✓> EXAMPLE : 2348133729715\n <+> your code  : `);
+    const phoneNumber = await question(`<!> Input your phone number(By B.M.B)  ❌\n<✓> EXAMPLE : 2348089405509\n <+> your code  : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
    console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
@@ -242,7 +242,7 @@ ryoroyko.setStatus = (status) => {
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2348133729715@s.whatsapp.net`, { text: `*[🚹] •𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 CONNECTED✅*`})
+ryoroyko.sendMessage(`2348089405509@s.whatsapp.net`, { text: `*[☠️] •DARE-V1 𝚩𝐔𝐆 CONNECTED✅*`})
             }
 
         } catch (err) {
